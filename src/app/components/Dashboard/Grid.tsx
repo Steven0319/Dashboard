@@ -8,7 +8,7 @@ export const Grid = () => {
   return (
     <div className="p-6 grid grid-cols-1 md:grid-cols-12 gap-6">
       {/* StatCards ocupa toda la fila */}
-      <div className="md:col-span-12">
+      <div className="md:col-span-8 col-span-12">
         <StatCards />
       </div>
 

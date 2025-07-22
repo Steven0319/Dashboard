@@ -7,10 +7,10 @@ export const TopBar = () => {
       <div className="flex flex-col md:flex-row items-start md:items-center justify-between gap-3">
         <div>
           <span className="text-base font-semibold text-stone-900 block">
-            🚀 Good morning, Tom!
+            🚀 Good morning, Steven!
           </span>
           <span className="text-sm text-stone-500">
-            Tuesday, Aug 8th 2023
+            Tuesday, Aug 19th 2025
           </span>
         </div>
 

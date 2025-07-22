@@ -65,9 +65,7 @@ export const UsageRadar = () => {
                 border: "1px solid #e5e7eb",
               }}
             />
-            <Legend
-              wrapperStyle={{ fontSize: "0.75rem", color: "#334155" }}
-            />
+            <Legend wrapperStyle={{ fontSize: "0.75rem", color: "#334155" }} />
           </RadarChart>
         </ResponsiveContainer>
       </div>

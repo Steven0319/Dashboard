@@ -27,9 +27,9 @@ export const AccountToggle = () => {
 
         <div className="flex-1 text-start">
           <p className="text-base font-semibold text-stone-800">
-            Tom Is Loading
+            Steven Is Loading
           </p>
-          <p className="text-xs text-stone-500">tom@hover.dev</p>
+          <p className="text-xs text-stone-500">steve@hover.dev</p>
         </div>
 
         {isOpen ? (
